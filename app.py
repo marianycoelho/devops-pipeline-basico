@@ -1,1 +1,1 @@
-print(Hello DevOps! Pipeline funcionando 🚀)
+print("Hello DevOps! Pipeline funcionando 🚀")
